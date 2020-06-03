@@ -12,8 +12,7 @@ It is frontend react-Drum-app
 
 - React.js,
 - CSS3,
-- Jsx,
-- Fontawesome
+- Jsx
 
 
 ## `Screenshot`
@@ -22,7 +21,7 @@ It is frontend react-Drum-app
 
 
 ## `Live Demo`
- Click [here](https://kind-curran-01cf22.netlify.app) for Live Demo
+ Click [here](https://youthful-haibt-8e402e.netlify.app) for Live Demo
 
 
 👤 **Author**
